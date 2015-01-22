@@ -16,19 +16,19 @@
 	}
 
 a:link {
-			color: #FF0000;
-			text-decoration: none;
-				}
-				a: visited {
-					color: #000000;
-						}
-				a: hover {
-					color: #FF1493;
-					text-decoration: underline;
-						}
-					a: active {
-							color: #1E90FF
-								}
+	color: #228B22;
+	text-decoration: none;
+		}
+a:visited {
+	color: #FF4500;
+		}
+a:hover {
+	color: #228B22;
+	text-decoration: underline;
+		}
+a:active {
+	color: #FF4500;
+		}
 
 
 
@@ -54,6 +54,7 @@ h2 {
 	font-family: 'Bubblegum Sans', cursive;
 	font-size: 18px;
 	color: #FF4500;
+	text-indent: 20px;
 	}
 	
 h3 {
@@ -92,4 +93,8 @@ h3 {
 								font-size: 14px;
 								font-weight: bold;
 										}
-	
+figure {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FF4500
+		}
