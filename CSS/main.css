@@ -19,18 +19,20 @@
 	width: 70%;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
+	opacity: .8;
 	float: left;
 	width: 56%;
-	margin: 1%;
+	margin: 0 auto%;
 
 	}
 	
 	
 		
 body {
-	background-color: #76CFAD;
+	background-image: url("../images/background.jpeg");
+	background-repeat: repeat;
 	font-family: verdana, arial, sans-serif;
-	opacity: .8;
+	
 	
 	
 	}
@@ -38,7 +40,7 @@ body {
 	float: left;
 	width: 30%;
 	margin: 1% ;
-	padding: 5px;
+	padding: 0% auto;
 }
 
 .gradient {
