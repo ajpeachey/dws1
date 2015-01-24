@@ -12,17 +12,13 @@
 
 #container {
 	margin: 0 auto;
-	
 	background-color: #FFFFFF;
 	border: 5px solid #FFFFFF; 
 	border-radius: 10px;
 	width: 70%;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
-	opacity: .8;
-	float: left;
-	width: 56%;
-	margin: 0 auto%;
+	
 
 	}
 	
@@ -38,7 +34,7 @@ body {
 	}
 #sidebar {
 	float: left;
-	width: 30%;
+	width: 15%;
 	margin: 1% ;
 	padding: 0% auto;
 }
@@ -52,7 +48,17 @@ body {
 	background: linear-gradient(to bottom, #f2f9fe 0%, #d6f0fd 100%);
 }
 
-
+#content {
+float: left;
+	width: 56%;
+	margin: 1% auto;
+	background-color: #FFFFFF;
+	border: 5px solid #FFFFFF; 
+	border-radius: 10px;
+	width: 70%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	}
 	
 	
 
